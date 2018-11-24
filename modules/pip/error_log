@@ -1,0 +1,6 @@
+[22-Jul-2012 03:20:50] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/vgtrin5/public_html/dps2/modules/pip/pip.php on line 51
+[22-Jul-2012 03:21:20] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/vgtrin5/public_html/dps2/modules/pip/pip.php on line 51
+[22-Jul-2012 03:53:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vgtrin5/public_html/dps2/modules/pip/pip.php on line 430
+[22-Jul-2012 03:58:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vgtrin5/public_html/dps2/modules/pip/pip.php on line 432
+[22-Jul-2012 11:35:56] PHP Parse error:  syntax error, unexpected $end in /home/vgtrin5/public_html/dps2/modules/pip/pip.php on line 92
+[22-Jul-2012 11:38:09] PHP Parse error:  syntax error, unexpected $end in /home/vgtrin5/public_html/dps2/modules/pip/pip.php on line 92

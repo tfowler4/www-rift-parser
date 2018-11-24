@@ -1,0 +1,102 @@
+[28-Apr-2012 01:36:59] PHP Warning:  include_once(/home/vgtrin5/public_html/dps2/modules/config/nav.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 3
+[28-Apr-2012 01:36:59] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/vgtrin5/public_html/dps2/modules/config/nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/vgtrin5/php') in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 3
+[28-Apr-2012 01:36:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'vgtrin5'@'localhost' (using password: NO) in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 30
+[28-Apr-2012 01:36:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 30
+[28-Apr-2012 01:39:25] PHP Warning:  include_once(/home/vgtrin5/public_html/dps2/modules/config/nav.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 3
+[28-Apr-2012 01:39:25] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/vgtrin5/public_html/dps2/modules/config/nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/vgtrin5/php') in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 3
+[28-Apr-2012 01:39:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'vgtrin5'@'localhost' (using password: NO) in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 30
+[28-Apr-2012 01:39:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 30
+[28-Apr-2012 01:39:56] PHP Warning:  include_once(/home/vgtrin5/public_html/dps2/modules/config/nav.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 3
+[28-Apr-2012 01:39:56] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/vgtrin5/public_html/dps2/modules/config/nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/vgtrin5/php') in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 3
+[28-Apr-2012 01:39:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'vgtrin5'@'localhost' (using password: NO) in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 30
+[28-Apr-2012 01:39:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 30
+[28-Apr-2012 01:39:59] PHP Warning:  include_once(/home/vgtrin5/public_html/dps2/modules/config/nav.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 3
+[28-Apr-2012 01:39:59] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/vgtrin5/public_html/dps2/modules/config/nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/vgtrin5/php') in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 3
+[28-Apr-2012 01:39:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'vgtrin5'@'localhost' (using password: NO) in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 30
+[28-Apr-2012 01:39:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 30
+[29-Apr-2012 18:29:21] PHP Parse error:  syntax error, unexpected ';' in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 169
+[20-May-2012 01:39:53] PHP Warning:  mysql_fetch_array(): 10 is not a valid MySQL result resource in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 137
+[20-May-2012 01:46:31] PHP Warning:  mysql_fetch_array(): 10 is not a valid MySQL result resource in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 137
+[20-May-2012 01:48:57] PHP Warning:  mysql_fetch_array(): 10 is not a valid MySQL result resource in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 137
+[09-Jun-2012 13:25:20] PHP Parse error:  syntax error, unexpected '>' in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 244
+[09-Jun-2012 14:36:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 113
+[09-Jun-2012 15:34:26] PHP Parse error:  syntax error, unexpected '}' in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 160
+[09-Jun-2012 15:35:17] PHP Parse error:  syntax error, unexpected ')' in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 175
+[09-Jun-2012 16:02:52] PHP Fatal error:  Cannot redeclare get_encounter_specific_dps() (previously declared in /home/vgtrin5/public_html/dps2/config/querys.php:186) in /home/vgtrin5/public_html/dps2/config/querys.php on line 266
+[09-Jun-2012 16:03:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 174
+[09-Jun-2012 16:03:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 178
+[09-Jun-2012 16:23:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 129
+[09-Jun-2012 16:23:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 157
+[09-Jun-2012 16:49:43] PHP Parse error:  syntax error, unexpected T_FOR in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 205
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 16:50:09] PHP Warning:  array_search() [<a href='function.array-search'>function.array-search</a>]: Wrong datatype for second argument in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 151
+[09-Jun-2012 17:01:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 165
+[09-Jun-2012 17:01:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 165
+[17-Jun-2012 04:31:58] PHP Parse error:  syntax error, unexpected T_STRING in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 152
+[17-Jun-2012 04:32:03] PHP Parse error:  syntax error, unexpected T_STRING in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 152
+[17-Jun-2012 04:35:23] PHP Parse error:  syntax error, unexpected T_STRING in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 152
+[17-Jun-2012 04:36:04] PHP Parse error:  syntax error, unexpected T_STRING in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 152
+[17-Jun-2012 12:36:55] PHP Parse error:  syntax error, unexpected T_STRING in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 152
+[17-Jun-2012 12:54:48] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 89
+[17-Jun-2012 12:59:23] PHP Warning:  Missing argument 2 for get_all_combatants(), called in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 71 and defined in /home/vgtrin5/public_html/dps2/config/querys.php on line 98
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 13:06:49] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home/vgtrin5/public_html/dps2/modules/list/panePlayers.php on line 82
+[17-Jun-2012 14:59:48] PHP Fatal error:  Call to undefined function  addslahses() in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 112
+[17-Jun-2012 19:24:59] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 168
+[17-Jun-2012 19:24:59] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 245
+[17-Jun-2012 19:25:46] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 168
+[17-Jun-2012 19:25:46] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 245
+[19-Jun-2012 20:25:35] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 168
+[19-Jun-2012 20:25:35] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 245
+[26-Jun-2012 21:15:10] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 168
+[26-Jun-2012 21:15:10] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 245
+[27-Jun-2012 11:03:49] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 168
+[27-Jun-2012 11:03:49] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 245
+[04-Jul-2012 21:35:08] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 168
+[04-Jul-2012 21:35:08] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 245
+[07-Jul-2012 20:55:37] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 168
+[07-Jul-2012 20:55:37] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 245
+[16-Jul-2012 12:59:11] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 220
+[16-Jul-2012 12:59:11] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 322
+[19-Jul-2012 14:41:42] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 220
+[19-Jul-2012 14:41:42] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 322
+[21-Jul-2012 00:37:38] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 220
+[21-Jul-2012 00:37:38] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 322
+[23-Jul-2012 22:24:07] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 220
+[23-Jul-2012 22:24:07] PHP Warning:  Division by zero in /home/vgtrin5/public_html/dps2/modules/list/list.php on line 322
